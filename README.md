@@ -28,7 +28,7 @@ Este archivo solo es la primera fase del analisis de datos, posteriormente se va
 
 ## Avances considerados a futuro con el prototipo
 
-- Crear dashboard interactivo que permita ver y monitorear la produccion en tiempo real 
+- Crear dashboard interactivo que permita ver y monitorear la producción en tiempo real 
 - Añadir alertas automatizadas por WhatsApp o Email
 - Integrar con datos reales proporcionados con el negocio para una mayor comprension de los temas analizados y mejorar la estructura de los datos.
 
